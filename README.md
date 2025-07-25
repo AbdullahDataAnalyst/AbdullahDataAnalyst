@@ -45,5 +45,3 @@ I’m currently learning from platforms like:
 
 ---
 
-> “Data is a tool for enhancing intuition.” – Hilary Mason
-
